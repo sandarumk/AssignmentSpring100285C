@@ -1,14 +1,7 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
 package main;
 
-/**
- *
- * @author Jayaruwan
- */
+
 public class Student {
 
     private String firstName, lastName, address, gender, dateOfBirth;
